@@ -13,3 +13,6 @@ pynch 4 lifers
 
 ## How to contribute
 u dont
+
+## Copyright
+SO!Yoon! and RM
