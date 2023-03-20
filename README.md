@@ -9,5 +9,7 @@ Tamquam alter idem
 Sample website with plenty of files for demons
 
 ## Deployment
+pynch 4 lifers
 
 ## How to contribute
+u dont
